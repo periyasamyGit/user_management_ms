@@ -11,5 +11,5 @@ public class TransactionEvent {
 	private String transactionId;
 	private String username;
 	private double amount;
-	private String transactionType; // CREDIT, DEBIT
+	private String transactionType;
 }
